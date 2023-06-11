@@ -21,7 +21,7 @@
                 "CFrame": "-48.029296875, -74.29995727539062, 35.544586181640625"
             },
             "Event": "AttackControl",
-            "Time": 6.67
+            "Time": 6.5
         },
         {
             "Event": "ControlUnit",
