@@ -1,0 +1,667 @@
+{
+    "Macro": [
+        {
+            "Data": {
+                "UnitName": "Katana_Man",
+                "CFrame": "39.019775390625, -75.21078491210938, 57.01617431640625",
+                "Index": 1
+            },
+            "Event": "Summon",
+            "Time": 0
+        },
+        {
+            "Data": {
+                "Index": 1
+            },
+            "Event": "ControlUnit",
+            "Time": 0
+        },
+        {
+            "Data": {
+                "CFrame": "-48.029296875, -74.29995727539062, 35.544586181640625"
+            },
+            "Event": "AttackControl",
+            "Time": 6.67
+        },
+        {
+            "Event": "ControlUnit",
+            "Time": 8.33
+        },
+        {
+            "Data": {
+                "UnitName": "Ivankov2",
+                "CFrame": "-48.0045166015625, -74.82443237304688, 47.066497802734375",
+                "Index": 2
+            },
+            "Event": "Summon",
+            "Time": 16.22
+        },
+        {
+            "Data": {
+                "UnitName": "Ivankov2",
+                "CFrame": "-8.5460205078125, -74.82443237304688, 17.936065673828125",
+                "Index": 3
+            },
+            "Event": "Summon",
+            "Time": 25.98
+        },
+        {
+            "Data": {
+                "UnitName": "Speedwagon",
+                "CFrame": "-15.3184814453125, -75.30923461914062, 35.07196044921875",
+                "Index": 4
+            },
+            "Event": "Summon",
+            "Time": 28.15
+        },
+        {
+            "Data": {
+                "Index": 4
+            },
+            "Event": "Upgrade",
+            "Time": 29.61
+        },
+        {
+            "Data": {
+                "Index": 4
+            },
+            "Event": "Upgrade",
+            "Time": 36.73
+        },
+        {
+            "Data": {
+                "Index": 4
+            },
+            "Event": "Upgrade",
+            "Time": 38.02
+        },
+        {
+            "Data": {
+                "Index": 4
+            },
+            "Event": "Upgrade",
+            "Time": 38.38
+        },
+        {
+            "Data": {
+                "Index": 4
+            },
+            "Event": "Upgrade",
+            "Time": 38.57
+        },
+        {
+            "Data": {
+                "Index": 4
+            },
+            "Event": "Upgrade",
+            "Time": 42.7
+        },
+        {
+            "Data": {
+                "Index": 4
+            },
+            "Event": "Upgrade",
+            "Time": 51.95
+        },
+        {
+            "Data": {
+                "Index": 4
+            },
+            "Event": "Upgrade",
+            "Time": 52.3
+        },
+        {
+            "Data": {
+                "Index": 4
+            },
+            "Event": "Upgrade",
+            "Time": 57.42
+        },
+        {
+            "Data": {
+                "UnitName": "Ivankov2",
+                "CFrame": "78.7808837890625, -74.82443237304688, 58.5062255859375",
+                "Index": 5
+            },
+            "Event": "Summon",
+            "Time": 64.42
+        },
+        {
+            "Data": {
+                "Index": 4
+            },
+            "Event": "Upgrade",
+            "Time": 67.65
+        },
+        {
+            "Data": {
+                "Index": 4
+            },
+            "Event": "Upgrade",
+            "Time": 67.93
+        },
+        {
+            "Data": {
+                "UnitName": "Ivankov2",
+                "CFrame": "-98.989013671875, -74.82443237304688, 37.57568359375",
+                "Index": 6
+            },
+            "Event": "Summon",
+            "Time": 70.97
+        },
+        {
+            "Data": {
+                "UnitName": "Ivankov2",
+                "CFrame": "-83.8468017578125, -74.82443237304688, 32.328582763671875",
+                "Index": 7
+            },
+            "Event": "Summon",
+            "Time": 73.65
+        },
+        {
+            "Data": {
+                "Index": 2
+            },
+            "Event": "Upgrade",
+            "Time": 76.3
+        },
+        {
+            "Data": {
+                "UnitName": "Ivankov2",
+                "CFrame": "36.7340087890625, -74.82443237304688, 45.078826904296875",
+                "Index": 8
+            },
+            "Event": "Summon",
+            "Time": 82.36
+        },
+        {
+            "Data": {
+                "Index": 8
+            },
+            "Event": "Upgrade",
+            "Time": 83.6
+        },
+        {
+            "Data": {
+                "Index": 3
+            },
+            "Event": "Upgrade",
+            "Time": 85.86
+        },
+        {
+            "Data": {
+                "Index": 4
+            },
+            "Event": "Upgrade",
+            "Time": 87.45
+        },
+        {
+            "Data": {
+                "Index": 4
+            },
+            "Event": "Upgrade",
+            "Time": 87.75
+        },
+        {
+            "Data": {
+                "UnitName": "Ivankov2",
+                "CFrame": "-46.7572021484375, -74.82443237304688, -70.61370849609375",
+                "Index": 9
+            },
+            "Event": "Summon",
+            "Time": 92.59
+        },
+        {
+            "Data": {
+                "Index": 9
+            },
+            "Event": "Upgrade",
+            "Time": 94.25
+        },
+        {
+            "Data": {
+                "Index": 9
+            },
+            "Event": "Upgrade",
+            "Time": 95.5
+        },
+        {
+            "Data": {
+                "UnitName": "Ivankov2",
+                "CFrame": "41.686279296875, -74.82443237304688, -74.84249877929688",
+                "Index": 10
+            },
+            "Event": "Summon",
+            "Time": 97.16
+        },
+        {
+            "Data": {
+                "Index": 10
+            },
+            "Event": "Upgrade",
+            "Time": 98.56
+        },
+        {
+            "Data": {
+                "Index": 10
+            },
+            "Event": "Upgrade",
+            "Time": 99.04
+        },
+        {
+            "Data": {
+                "Index": 4
+            },
+            "Event": "Upgrade",
+            "Time": 101.83
+        },
+        {
+            "Data": {
+                "Index": 3
+            },
+            "Event": "Upgrade",
+            "Time": 108.33
+        },
+        {
+            "Data": {
+                "Index": 3
+            },
+            "Event": "Upgrade",
+            "Time": 108.81
+        },
+        {
+            "Data": {
+                "Index": 3
+            },
+            "Event": "Upgrade",
+            "Time": 109.39
+        },
+        {
+            "Data": {
+                "Index": 4
+            },
+            "Event": "Upgrade",
+            "Time": 115.57
+        },
+        {
+            "Data": {
+                "Index": 4
+            },
+            "Event": "Upgrade",
+            "Time": 119.24
+        },
+        {
+            "Data": {
+                "Index": 5
+            },
+            "Event": "Upgrade",
+            "Time": 122.4
+        },
+        {
+            "Data": {
+                "Index": 5
+            },
+            "Event": "Upgrade",
+            "Time": 123.32
+        },
+        {
+            "Data": {
+                "Index": 5
+            },
+            "Event": "Upgrade",
+            "Time": 123.84
+        },
+        {
+            "Data": {
+                "Index": 5
+            },
+            "Event": "Upgrade",
+            "Time": 124.76
+        },
+        {
+            "Data": {
+                "Index": 10
+            },
+            "Event": "Upgrade",
+            "Time": 127.97
+        },
+        {
+            "Data": {
+                "Index": 10
+            },
+            "Event": "Upgrade",
+            "Time": 128.52
+        },
+        {
+            "Data": {
+                "Index": 9
+            },
+            "Event": "Upgrade",
+            "Time": 131.55
+        },
+        {
+            "Data": {
+                "Index": 9
+            },
+            "Event": "Upgrade",
+            "Time": 132.15
+        },
+        {
+            "Data": {
+                "Index": 7
+            },
+            "Event": "Upgrade",
+            "Time": 135.94
+        },
+        {
+            "Data": {
+                "Index": 7
+            },
+            "Event": "Upgrade",
+            "Time": 136.35
+        },
+        {
+            "Data": {
+                "Index": 7
+            },
+            "Event": "Upgrade",
+            "Time": 136.8
+        },
+        {
+            "Data": {
+                "Index": 7
+            },
+            "Event": "Upgrade",
+            "Time": 137.4
+        },
+        {
+            "Data": {
+                "Index": 2
+            },
+            "Event": "Upgrade",
+            "Time": 142.47
+        },
+        {
+            "Data": {
+                "Index": 2
+            },
+            "Event": "Upgrade",
+            "Time": 142.8
+        },
+        {
+            "Data": {
+                "Index": 2
+            },
+            "Event": "Upgrade",
+            "Time": 144.11
+        },
+        {
+            "Data": {
+                "Index": 8
+            },
+            "Event": "Upgrade",
+            "Time": 148.03
+        },
+        {
+            "Data": {
+                "Index": 8
+            },
+            "Event": "Upgrade",
+            "Time": 148.32
+        },
+        {
+            "Data": {
+                "Index": 8
+            },
+            "Event": "Upgrade",
+            "Time": 148.88
+        },
+        {
+            "Data": {
+                "UnitName": "Katana_Man",
+                "CFrame": "-3.875732421875, -75.21078491210938, 35.18939208984375",
+                "Index": 11
+            },
+            "Event": "Summon",
+            "Time": 156.56
+        },
+        {
+            "Data": {
+                "Index": 11
+            },
+            "Event": "Upgrade",
+            "Time": 157.83
+        },
+        {
+            "Data": {
+                "Index": 11
+            },
+            "Event": "Upgrade",
+            "Time": 158.18
+        },
+        {
+            "Data": {
+                "Index": 11
+            },
+            "Event": "Upgrade",
+            "Time": 158.43
+        },
+        {
+            "Data": {
+                "Index": 11
+            },
+            "Event": "Upgrade",
+            "Time": 158.72
+        },
+        {
+            "Data": {
+                "Index": 11
+            },
+            "Event": "Upgrade",
+            "Time": 159.01
+        },
+        {
+            "Data": {
+                "UnitName": "Katana_Man",
+                "CFrame": "-94.2105712890625, -75.21078491210938, 36.89715576171875",
+                "Index": 12
+            },
+            "Event": "Summon",
+            "Time": 163.4
+        },
+        {
+            "Data": {
+                "Index": 12
+            },
+            "Event": "Upgrade",
+            "Time": 164.69
+        },
+        {
+            "Data": {
+                "Index": 12
+            },
+            "Event": "Upgrade",
+            "Time": 164.95
+        },
+        {
+            "Data": {
+                "Index": 12
+            },
+            "Event": "Upgrade",
+            "Time": 165.25
+        },
+        {
+            "Data": {
+                "Index": 12
+            },
+            "Event": "Upgrade",
+            "Time": 165.51
+        },
+        {
+            "Data": {
+                "Index": 12
+            },
+            "Event": "Upgrade",
+            "Time": 165.79
+        },
+        {
+            "Data": {
+                "UnitName": "Katana_Man",
+                "CFrame": "-43.6151123046875, -75.21078491210938, -69.95742797851562",
+                "Index": 13
+            },
+            "Event": "Summon",
+            "Time": 168.38
+        },
+        {
+            "Data": {
+                "Index": 13
+            },
+            "Event": "Upgrade",
+            "Time": 169.47
+        },
+        {
+            "Data": {
+                "Index": 13
+            },
+            "Event": "Upgrade",
+            "Time": 169.78
+        },
+        {
+            "Data": {
+                "Index": 13
+            },
+            "Event": "Upgrade",
+            "Time": 170.08
+        },
+        {
+            "Data": {
+                "Index": 13
+            },
+            "Event": "Upgrade",
+            "Time": 170.38
+        },
+        {
+            "Data": {
+                "Index": 13
+            },
+            "Event": "Upgrade",
+            "Time": 170.65
+        },
+        {
+            "Data": {
+                "UnitName": "Katana_Man",
+                "CFrame": "45.3819580078125, -75.21078491210938, -75.22796630859375",
+                "Index": 14
+            },
+            "Event": "Summon",
+            "Time": 173.29
+        },
+        {
+            "Data": {
+                "Index": 14
+            },
+            "Event": "Upgrade",
+            "Time": 174.45
+        },
+        {
+            "Data": {
+                "Index": 14
+            },
+            "Event": "Upgrade",
+            "Time": 174.77
+        },
+        {
+            "Data": {
+                "Index": 14
+            },
+            "Event": "Upgrade",
+            "Time": 175.04
+        },
+        {
+            "Data": {
+                "Index": 14
+            },
+            "Event": "Upgrade",
+            "Time": 175.29
+        },
+        {
+            "Data": {
+                "Index": 14
+            },
+            "Event": "Upgrade",
+            "Time": 175.69
+        },
+        {
+            "Data": {
+                "UnitName": "Katana_Man",
+                "CFrame": "77.3292236328125, -75.21078491210938, 53.2059326171875",
+                "Index": 15
+            },
+            "Event": "Summon",
+            "Time": 178.8
+        },
+        {
+            "Data": {
+                "Index": 15
+            },
+            "Event": "Upgrade",
+            "Time": 182.72
+        },
+        {
+            "Data": {
+                "Index": 15
+            },
+            "Event": "Upgrade",
+            "Time": 183.07
+        },
+        {
+            "Data": {
+                "Index": 15
+            },
+            "Event": "Upgrade",
+            "Time": 183.41
+        },
+        {
+            "Data": {
+                "Index": 15
+            },
+            "Event": "Upgrade",
+            "Time": 183.69
+        },
+        {
+            "Data": {
+                "Index": 15
+            },
+            "Event": "Upgrade",
+            "Time": 184
+        }
+    ],
+    "Config": {
+        "Macro Type": "Paid",
+        "Select Macro Must Wait Event": [
+            "ControlUnit",
+            "AttackControl"
+        ],
+        "Timer Type": "First Enemy",
+        "Unit": {
+            "Katana_Man": {
+                "Orb": "Fire Rage Orb",
+                "Level": 175
+            },
+            "RoyxLeader_MikasaS4": {
+                "Orb": "N/A",
+                "Level": "N/A",
+                "Leader": true
+            },
+            "Ivankov2": {
+                "Orb": "Prey Eye Orb",
+                "Level": 175
+            },
+            "Speedwagon": {
+                "Orb": "Universal Reduction Orb",
+                "Level": 175
+            }
+        }
+    }
+}
